@@ -24,11 +24,10 @@ Inspired by [NeurIPS 2019 Workshop](http://tripods.cis.cornell.edu/neurips19_cau
 ## Potential research ideas
 
 <ul>
+<li> Neural machine translation (NMT) approach to time-series counterfactual prediction </li>
 <li> Double-robust learning as a multitask learning problem </li>
-<li> Neural machine translation / alignment model approach to time-series counterfactual prediction </li>
-<li> Matrix completion for causal panel models with continuous treatment</li>
-<li> Empirical comparision of de-confounding approaches for counterfactual prediction </li>
-<li> Relationship of data-augmented loss function to importance sampling in counterfactual prediction </li>
+<li> Counterfactual prediction on observational panel data with continuous-valued treatment</li>
+<li> Generated data augmentation approach to de-confounding </li>
 </ul>
 
 ## Resources
